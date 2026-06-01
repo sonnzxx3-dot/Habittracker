@@ -1,0 +1,4 @@
+## Скопируй в local.properties и укажи путь к Android SDK
+## Windows пример:
+# sdk.dir=C\:\\Users\\ТВОЁ_ИМЯ\\AppData\\Local\\Android\\Sdk
+## или просто открой проект в Android Studio — она создаст этот файл сама

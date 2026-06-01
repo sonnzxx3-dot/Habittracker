@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Монограмма в безопасной зоне (центральные ~66dp) -->
+    <!-- Левый столб -->
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.55"
+        android:pathData="M40,58 h12 a6,6 0 0 1 6,6 v26 a6,6 0 0 1 -6,6 h-12 a6,6 0 0 1 -6,-6 v-26 a6,6 0 0 1 6,-6 z"/>
+    <!-- Средний столб -->
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.78"
+        android:pathData="M55,48 h12 a6,6 0 0 1 6,6 v36 a6,6 0 0 1 -6,6 h-12 a6,6 0 0 1 -6,-6 v-36 a6,6 0 0 1 6,-6 z"/>
+    <!-- Правый столб (высокий) -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M70,38 h12 a6,6 0 0 1 6,6 v46 a6,6 0 0 1 -6,6 h-12 a6,6 0 0 1 -6,-6 v-46 a6,6 0 0 1 6,-6 z"/>
+    <!-- Точка-вершина -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M76,38 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0"/>
+    <path android:fillColor="#6C63D4"
+        android:pathData="M76,38 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"/>
+</vector>
